@@ -1,2 +1,2 @@
 # flutter_app
-Projeto de desenvolvimento em Flutter
+Projeto de desenvolvimento Flutter
